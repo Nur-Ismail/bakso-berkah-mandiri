@@ -1,4 +1,3 @@
-# bakso-berkah-mandiri
 # Sistem Informasi Manajemen Inventaris - Bakso Berkah Mandiri
 
 Aplikasi berbasis web untuk pengelolaan stok bahan baku dan menu pada UMKM **Bakso Berkah Mandiri**. Proyek ini dikembangkan sebagai pemenuhan Tugas Besar mata kuliah **Cyber Security**, dengan fokus utama pada penerapan keamanan aplikasi web standar industri.
